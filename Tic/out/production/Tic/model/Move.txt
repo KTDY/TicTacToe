@@ -1,0 +1,822 @@
+Client m connected 
+Client f connected 
+Name f: @getListUsers
+Name f: @connEnemy m
+Name f: @getSizeBoard
+Name m: @conn2Enemy f
+Name m: @setSizeBoard 3
+Name m: 0-0
+Name f: 1-0
+Name m: 0-1
+Name f: 1-1
+Name m: 0-2
+Name m: @uLose
+Name m: @exit
+Client m disconnected 
+Name f: @exit
+Client f disconnected 
+Client l connected 
+Client v connected 
+Name v: @getListUsers
+Name v: @connEnemy l
+Name v: @getSizeBoard
+Name l: @conn2Enemy v
+Name l: @setSizeBoard 3
+Client a connected 
+Client b connected 
+Name b: @getListUsers
+Name b: @connEnemy a
+Name b: @getSizeBoard
+Name a: @conn2Enemy b
+Name a: @setSizeBoard 3
+Name a: 0-0
+Name b: 1-0
+Name a: 0-1
+Name b: 1-1
+Client v connected 
+Client d connected 
+Name d: @getListUsers
+Name d: @connEnemy v
+Name d: @getSizeBoard
+Name v: @conn2Enemy d
+Name v: @setSizeBoard 3
+Name v: 0-0
+Name d: 1-0
+Client v connected 
+Client e connected 
+Name e: @getListUsers
+Name e: @connEnemy v
+Name e: @getSizeBoard
+Name v: @conn2Enemy e
+Name v: @setSizeBoard 3
+Name v: 0-0
+Name e: 1-0
+Name v: 2-0
+Client d connected 
+Name d: 1-1
+Client f connected 
+Name f: 1-0
+Client lol connected 
+Client re connected 
+Name re: @getListUsers
+Name re: @connEnemy lol
+Name re: @getSizeBoard
+Name lol: @conn2Enemy re
+Name lol: @setSizeBoard 4
+Name lol: 0-0
+Name re: 1-0
+Name lol: 0-1
+Name re: 1-1
+Name lol: 0-2
+Name re: 1-2
+Name lol: 0-3
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name re: @exit
+Client re disconnected 
+Client fd connected 
+Client ty connected 
+Name ty: @getListUsers
+Name ty: @connEnemy fd
+Name ty: @getSizeBoard
+Name fd: @conn2Enemy ty
+Name fd: @setSizeBoard 4
+Name fd: 0-0
+Name ty: 1-0
+Name fd: 2-1
+Name ty: 3-1
+Name fd: 1-2
+Name ty: 2-0
+Name fd: 0-1
+Name ty: 0-2
+Name fd: 3-0
+Name ty: 0-3
+Name fd: 2-2
+Name ty: 3-2
+Name fd: 1-1
+Name ty: 2-3
+Name fd: 1-3
+Name ty: 3-3
+Name ty: @weLose
+Name ty: @exit
+Name fd: @exit
+Client ty disconnected 
+Client fd disconnected 
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client Lol connected 
+Name Lol: @getListUsers
+Name Lol: @connEnemy Nic
+Name Lol: @getSizeBoard
+Name Nic: @conn2Enemy Lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client Den connected 
+Name Den: @getListUsers
+Name Den: @connEnemy Nic
+Name Den: @getSizeBoard
+Name Nic: @conn2Enemy Den
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client Lol connected 
+Name Lol: @getListUsers
+Name Lol: @connEnemy Nic
+Name Lol: @getSizeBoard
+Name Nic: @conn2Enemy Lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client Nic connected 
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Client Nic connected 
+Client lox connected 
+Name lox: @getListUsers
+Name lox: @connEnemy Nic
+Name lox: @getSizeBoard
+Name Nic: @conn2Enemy lox
+Name Nic: @setSizeBoard 3
+Client lol connected 
+Client den connected 
+Name den: @getListUsers
+Name den: @connEnemy lol
+Name den: @getSizeBoard
+Name lol: @conn2Enemy den
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name den: 1-0
+Name lol: 0-1
+Name den: 1-1
+Name lol: 0-2
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name den: @exit
+Client den disconnected 
+Client Nic connected 
+Client Lol connected 
+Name Lol: @getListUsers
+Name Lol: @connEnemy Nic
+Name Lol: @getSizeBoard
+Name Nic: @conn2Enemy Lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name Lol: 1-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Name Nic: 1-2
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Name Nic: 0-0
+Name lol: 1-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 0-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 1-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 2-0
+Name Nic: 0-0
+Name lol: 0-1
+Name Nic: 2-2
+Name Nic: @uLose
+Name Nic: @exit
+Client Nic disconnected 
+Name lol: @exit
+Client lol disconnected 
+Client Nic connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy Nic
+Name lol: @getSizeBoard
+Name Nic: @conn2Enemy lol
+Name Nic: @setSizeBoard 3
+Name Nic: 1-1
+Name lol: 1-0
+Name Nic: 0-0
+Name lol: 2-0
+Name Nic: 2-2
+Name Nic: @uLose
+Name Nic: @exit
+Client Nic disconnected 
+Name lol: @exit
+Client lol disconnected 
+Name Nic: null
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy 
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 1-1
+Name lol: 0-1
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 1-1
+Name lol: 0-1
+Name IO: 2-2
+Name lol: 2-0
+Name IO: 0-2
+Name lol: 1-0
+Name lol: @uLose
+Name lol: @exit
+Name IO: @exit
+Client lol disconnected 
+Client IO disconnected 
+Client lol connected 
+Client ttt connected 
+Name ttt: @getListUsers
+Client LOl connected 
+Client t connected 
+Name t: @getListUsers
+Client lol connected 
+Client tt connected 
+Name tt: @getListUsers
+Name tt: @connEnemy lol
+Name tt: @getSizeBoard
+Name lol: @conn2Enemy tt
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name tt: 2-0
+Name lol: 0-1
+Name tt: 2-1
+Name lol: 0-2
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name tt: @exit
+Client tt disconnected 
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 1-0
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 1-0
+Name lol: 2-0
+Name IO: 1-1
+Name lol: 2-1
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 1-0
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 0-1
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 0-1
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 0-1
+Client lol connected 
+Client re connected 
+Name re: @getListUsers
+Name re: @connEnemy lol
+Name re: @getSizeBoard
+Name lol: @conn2Enemy re
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name re: 2-0
+Name lol: 1-1
+Name re: 1-2
+Client lol connected 
+Client te connected 
+Name te: @getListUsers
+Name te: @connEnemy lol
+Name te: @getSizeBoard
+Name lol: @conn2Enemy te
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name te: 2-0
+Client lol connected 
+Client te connected 
+Name te: @getListUsers
+Name te: @connEnemy lol
+Name te: @getSizeBoard
+Name lol: @conn2Enemy te
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name te: 2-0
+Name lol: 0-1
+Name te: 2-1
+Name lol: 0-2
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name te: @exit
+Client te disconnected 
+Client lol connected 
+Client te connected 
+Name te: @getListUsers
+Name te: @connEnemy lol
+Name te: @getSizeBoard
+Name lol: @conn2Enemy te
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name te: 2-1
+Name lol: 0-2
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 0-1
+Client lol connected 
+Client te connected 
+Name te: @getListUsers
+Name te: @connEnemy lol
+Name te: @getSizeBoard
+Name lol: @conn2Enemy te
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name te: 2-0
+Name lol: 0-1
+Name te: 2-1
+Name lol: 0-2
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name te: @exit
+Client te disconnected 
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 2-1
+Name lol: 1-0
+Name IO: 1-1
+Name lol: 2-0
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name IO: @exit
+Client IO disconnected 
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 1-1
+Name lol: 2-0
+Name IO: 0-1
+Name lol: 1-0
+Name lol: @uLose
+Name lol: @exit
+Name IO: @exit
+Client lol disconnected 
+Client IO disconnected 
+Client lol connected 
+Client te connected 
+Name te: @getListUsers
+Name te: @connEnemy lol
+Name te: @getSizeBoard
+Name lol: @conn2Enemy te
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name te: 1-0
+Name lol: 0-1
+Name te: 2-1
+Name lol: 0-2
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name te: @exit
+Client te disconnected 
+Name te: null
+Client LOL connected 
+Client re connected 
+Name re: @getListUsers
+Name re: @connEnemy LOL
+Name re: @getSizeBoard
+Name LOL: @conn2Enemy re
+Name LOL: @setSizeBoard 3
+Name LOL: 0-0
+Name re: 1-0
+Name LOL: 0-1
+Name re: 1-1
+Name LOL: 0-2
+Name LOL: @uLose
+Name LOL: @exit
+Client LOL disconnected 
+Name re: @exit
+Client re disconnected 
+Client lol connected 
+Client te connected 
+Name te: @getListUsers
+Name te: @connEnemy lol
+Name te: @getSizeBoard
+Name lol: @conn2Enemy te
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name te: 1-0
+Name lol: 0-1
+Name te: 1-1
+Name lol: 0-2
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name te: @exit
+Client te disconnected 
+Name lol: null
+Name te: null
+Client IO connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy IO
+Name lol: @getSizeBoard
+Name IO: @conn2Enemy lol
+Name IO: @setSizeBoard 3
+Client IO connected 
+Client lol connected 
+Client IO connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy IO
+Name lol: @getSizeBoard
+Name IO: @conn2Enemy lol
+Name IO: @setSizeBoard 3
+Client lol connected 
+Client re connected 
+Name re: @getListUsers
+Name re: @connEnemy lol
+Name re: @getSizeBoard
+Name lol: @conn2Enemy re
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name re: 1-0
+Name lol: 0-1
+Name re: 1-1
+Name lol: 0-2
+Name lol: @uLose
+Name lol: @exit
+Client lol disconnected 
+Name re: @exit
+Client re disconnected 
+Client IO connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy IO
+Name lol: @getSizeBoard
+Name IO: @conn2Enemy lol
+Name IO: @setSizeBoard 3
+Name IO: 0-1
+Name lol: 1-0
+Client IO connected 
+Client lol connected 
+Name lol: @getListUsers
+Name lol: @connEnemy IO
+Name lol: @getSizeBoard
+Name IO: @conn2Enemy lol
+Name IO: @setSizeBoard 3
+Name IO: 0-1
+Name lol: 1-0
+Name IO: 1-1
+Name lol: 2-0
+Name IO: 2-1
+Name IO: @uLose
+Name IO: @exit
+Client IO disconnected 
+Name lol: @exit
+Client lol disconnected 
+Name IO: null
+Client lol connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy lol
+Name IO: @getSizeBoard
+Name lol: @conn2Enemy IO
+Name lol: @setSizeBoard 3
+Name lol: 0-0
+Name IO: 0-1
+Name lol: 1-0
+Name IO: 1-1
+Name lol: 0-2
+Name IO: 2-1
+Name IO: @uLose
+Name IO: @exit
+Name lol: @exit
+Client IO disconnected 
+Client lol disconnected 
+Name IO: null
+Client IO connected 
+Client LOL connected 
+Name LOL: @getListUsers
+Name LOL: @connEnemy IO
+Name LOL: @getSizeBoard
+Name IO: @conn2Enemy LOL
+Name IO: @setSizeBoard 3
+Name IO: 1-1
+Name LOL: 0-0
+Name IO: 0-1
+Name LOL: 1-0
+Name IO: 2-1
+Name IO: @uLose
+Name IO: @exit
+Client IO disconnected 
+Name LOL: @exit
+Client LOL disconnected 
+Name IO: null
+Name LOL: 2-0
+Client Dima connected 
+Name Dima: 0-0
+Name Dima: null
+Client Dima connected 
+Client Vova connected 
+Name Vova: @getListUsers
+Name Vova: @connEnemy Dima
+Name Vova: @getSizeBoard
+Name Dima: @conn2Enemy Vova
+Name Dima: @setSizeBoard 3
+Name Dima: 0-0
+Name Vova: 1-0
+Name Dima: 0-1
+Name Vova: 2-0
+Name Dima: 1-2
+Client BigBen connected 
+Client London connected 
+Name London: @getListUsers
+Name London: @connEnemy BigBen
+Name London: @getSizeBoard
+Name BigBen: @conn2Enemy London
+Name BigBen: @setSizeBoard 3
+Name BigBen: 0-0
+Name London: 1-0
+Name BigBen: 0-1
+Name London: 1-1
+Name BigBen: 0-2
+Name BigBen: @uLose
+Name BigBen: @exit
+Client BigBen disconnected 
+Name London: @exit
+Client London disconnected 
+Client Den connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy Den
+Name IO: @getSizeBoard
+Name Den: @conn2Enemy IO
+Name Den: @setSizeBoard 3
+Name Den: 0-0
+Name IO: 1-1
+Name Den: 1-0
+Name IO: 2-2
+Name Den: 2-0
+Name Den: @uLose
+Name Den: @exit
+Client Den disconnected 
+Name IO: @exit
+Client IO disconnected 
+Client Den connected 
+Client IO connected 
+Name IO: @getListUsers
+Name IO: @connEnemy Den
+Name IO: @getSizeBoard
+Name Den: @conn2Enemy IO
+Name Den: @setSizeBoard 3
+Name Den: 0-0
+Name IO: 1-0
+Name Den: 1-1
+Name IO: 2-1
+Name Den: 2-2
+Name Den: @uLose
+Name Den: @exit
+Client Den disconnected 
+Name IO: @exit
+Client IO disconnected 

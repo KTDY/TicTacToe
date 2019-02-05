@@ -1,0 +1,2 @@
+Size board: 3
+Bot status: true
